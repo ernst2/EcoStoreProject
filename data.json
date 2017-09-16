@@ -1,0 +1,22 @@
+[   {
+    "name":"Hessian Bags",
+    "description":"Made in South Africa from PVC billboards on the inside and covered with hessian on the outside. Shweshwe detail on flap and strap (Various colours & designs available). Zipped pocket on inside. Velcro fastening. Sling strap made of shweshwe and webbing. Standard binding available in natural or black. Other binding colours also available. Dimensions 30 (W) x 38(H) x 10cm (G). Branding : Full colour PVC label sewn on in preferred position.",
+    "cost":{"weekend":"$129.00", "weekday":"$99.00"},
+    "details":["Big Screen TV","Free WIFI","Jetted Tub","Blue Ray Player"],
+    "photo":"images/Hessian Bag.jpg"
+    },
+    {
+    "name":"Go Green Handle",
+    "description":"Hate the amount of plastic bags used during shopping trips but can get away from them? Why not reduce the number of bags used each year by conveniently reusing, storing and never forgetting to take your own bags. With the Go Green Handle you can.",
+    "cost":{"weekend":"$5.00", "weekday":"$7.50"},
+    "details":["Made from 95% recycled plastic","Comfortable in your hands so no bags cutting into you hand","Store up to 7 bags quickly and conveniently. No bags cluttering your cupboards."],
+    "photo":"images/Go Green Handle-20170325 -DSC04419 -.jpg"
+    },
+    {
+    "name":"Sandy Suite",
+    "description":"Blah blah blah peanut",
+    "cost":{"weekend":"$299.00", "weekday":"$259.00"},
+    "details":["Large Fan","Sky Light","Swimming Pool","Complimentary Sun Screen"],
+    "photo":"images/sandy.jpg"
+    }
+]
